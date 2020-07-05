@@ -1,0 +1,12 @@
+
+*{margin: 0px; padding: 0px;}
+body{font-family: 'Poppins', sans-serif;}
+.first_div{width:40%;
+            float:left;}
+
+.second_div{width:40%;
+    float:left;}
+    img.first_img{width:250px;
+                    height:350px;}
+
+.first_div #name {color:#FF1493;}
