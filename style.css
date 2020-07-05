@@ -1,12 +1,120 @@
 
 *{margin: 0px; padding: 0px;}
 body{font-family: 'Poppins', sans-serif;}
+section{height:550px;
+ 
+ }
+
 .first_div{width:40%;
-            float:left;}
+            float:left;
+             margin:150px 70px;
+                 padding:0px 50px;}
+ .first_div #name {color:#FF1493;}
 
-.second_div{width:40%;
+ h1{font-size: 40px;}
+
+ #first_p {
+  
+    padding: 20px 0px;
+}
+
+.first_button{background-color: crimson;
+                                width:90px;
+                                height:30px;
+                                border-radius: 8px;}
+ .first_button a {text-decoration: none;
+                    color:white;}
+
+.second_div{width:42%;
+
     float:left;}
-    img.first_img{width:250px;
-                    height:350px;}
+ img.first_img{width:100%;
+                margin-right:190px;}
+    .first_section{background-image: url("images/header-bg.png");
+                    background-repeat: no-repeat;}
+       
 
-.first_div #name {color:#FF1493;}
+
+
+
+
+
+
+ img.second_img{width:100%;
+                    margin-left:100px;}
+
+.resume{margin-left: 200px;}
+
+.second_section{background-image: url("images/biography-bg.png");
+                        background-repeat: no-repeat;}
+
+ 
+
+.five_div{width:40%;
+                            float:left;
+                            margin-top:150px;
+                            margin-left: 120px !important;
+                                  padding:0px 50px;}
+button.second{background-color: crimson;
+                                    width:120px;
+                                    height:30px;
+                                    border-radius: 8px;}  
+ button.second a {text-decoration: none;
+                    color:white;}  
+                    
+                    
+
+
+
+
+.title_h{margin-left: 500px;
+             padding: 50px;}
+.third{width:33%;}
+.third_section{background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;}
+
+
+
+
+
+
+
+
+
+    .four_section{background-image: url("images/footer-bg.png");
+        background-repeat: no-repeat;}
+    .div1{margin-left: 400px;
+            padding:50px;}
+
+
+            .div2{margin-left:580px;
+                }
+    
+
+        .div3{margin-left:560px;
+                   color:#888;}
+        .div4{margin-left:400px;
+                    padding:30px;
+                    font-size: 20px;
+                    }
+
+.last-div4{background-color: rgb(224, 73, 104);
+                width:700px;
+            margin-left: 330px;
+            border-radius: 10px;}
+
+.div5{margin-left:180px;
+        padding-top:40px;
+        padding-bottom: 20px;
+        color:white;
+            }
+.div6{margin-left:115px;
+                padding-bottom:40px;
+                color:white;
+                font-size: 30px;
+                    }
+
+
+
+.last_footer{padding-top:90px;
+        margin-left: 450px;}
